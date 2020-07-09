@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... http://sjinnovation.com/
 - 🌱 I’m currently learning ... AWS + Drupal
-- 👯 I’m looking to collaborate on ... AWS and Druapl
+- 👯 I’m looking to collaborate on ... AWS and Drupal
 - 🤔 I’m looking for help with ... AWS Serverless Development
 - 💬 Ask me about ... AWS, Leadership, Self Branding
 - 📫 How to reach me: ... https://www.linkedin.com/in/partha-sarathi-kundu/
